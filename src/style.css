@@ -1,0 +1,34 @@
+
+/* Estilos globales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d5e0d9;
+    background-image: url('/foto-fondo.png');
+    background-size: 32%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    background-color: #5a929c;
+    color: #454646;
+    padding: 10px;
+    text-align: center;
+    margin: 0;
+}
+
+
+footer {
+    background-color: #727575;
+    color: #020202;
+    text-align: center;
+    margin-top: auto;
+ 
+}
