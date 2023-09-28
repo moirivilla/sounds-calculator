@@ -1,10 +1,9 @@
-
-/* Estilos globales */
+/*style.css*/
 body {
     font-family: Arial, sans-serif;
     background-color: #d5e0d9;
     background-image: url('/foto-fondo.png');
-    background-size: 32%;
+    background-size: 55%;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
@@ -12,7 +11,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     margin: 0;
-    padding: 0;
+    padding: auto;
 }
 
 
