@@ -1,4 +1,10 @@
-# sounds-calculator 👩🏽‍💻
+<h1 align="center">
+ Sounds Calculator 👩🏽‍💻 
+</h1>
+<div align="center">
+  <img  src="./public/foto-calculadora.jpg" />
+</div>
+
 ## Discover this online calculator developed with the latest React Vite technology! This calculator offers a fast and accurate calculation
 ## experience right in your browser. Perform basic math operations with ease, from addition and subtraction to multiplication and division,
 ## all in real time. The calculator features an intuitive and attractive user interface that allows you to perform calculations efficiently 
